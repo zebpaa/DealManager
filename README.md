@@ -27,6 +27,12 @@ npm install
 npm run dev
 ```
 
+## Build command
+
+```sh
+npm run build
+```
+
 ## Screenshots
 ![Screenshot_1](https://github.com/user-attachments/assets/882cf135-5a13-440e-b07b-5b123d529a0c)
 ![Screenshot_2](https://github.com/user-attachments/assets/6ae3f1b9-89dc-4873-ab8a-14084cfa3b21)
@@ -36,8 +42,3 @@ npm run dev
 ![Screenshot_6](https://github.com/user-attachments/assets/3966a185-0426-4bd6-8ebc-6a7bb79eca53)
 ![Screenshot_7](https://github.com/user-attachments/assets/2d75a6be-378c-48da-aa35-a522fceb4a5a)
 
-## Build command
-
-```sh
-npm run build
-```
