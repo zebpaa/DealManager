@@ -1,8 +1,8 @@
 ## Description
 
-SPA web application for interacting with deals.
+SPA web-application for interacting with deals.
 
-The application is implemented using Typescript, React, Redux Toolkit, React Router, CSS Modules, SCSS, React Hook Form + yup, Vite
+Stack: Typescript, React, Redux Toolkit, React Router, CSS Modules, SCSS, React Hook Form + yup, Vite
 
 1) Filtering by tabs
 2) Adding a deal via a modal window
