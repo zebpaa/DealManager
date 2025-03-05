@@ -28,13 +28,13 @@ npm run dev
 ```
 
 ## Screenshots
-
-![Screenshot_1](https://github.com/user-attachments/assets/94a0c963-6b84-4f77-8830-6023e56b7cc8)
-![Screenshot_2](https://github.com/user-attachments/assets/821b18bb-0db6-4d19-a042-7f9bb2602efe)
-![Screenshot_3](https://github.com/user-attachments/assets/245a56fc-ab0a-47a8-b93a-a32018c6aaad)
-![Screenshot_4](https://github.com/user-attachments/assets/131f1a9b-ffef-45b0-9344-f51962b7aab8)
-![Screenshot_5](https://github.com/user-attachments/assets/c43e07e4-9b37-48ea-a8cb-3cc39f47eb1b)
-![Screenshot_6](https://github.com/user-attachments/assets/3c6c443a-64d6-4a3a-bf52-1018bab0fa87)
+![Screenshot_1](https://github.com/user-attachments/assets/882cf135-5a13-440e-b07b-5b123d529a0c)
+![Screenshot_2](https://github.com/user-attachments/assets/6ae3f1b9-89dc-4873-ab8a-14084cfa3b21)
+![Screenshot_3](https://github.com/user-attachments/assets/f04dffe1-2de5-4775-bba5-ce9f0eeb3343)
+![Screenshot_4](https://github.com/user-attachments/assets/6e6efef8-1fd7-491f-a2be-2f90eaea586a)
+![Screenshot_5](https://github.com/user-attachments/assets/3924a570-fc16-4954-be9b-346aad6fac02)
+![Screenshot_6](https://github.com/user-attachments/assets/3966a185-0426-4bd6-8ebc-6a7bb79eca53)
+![Screenshot_7](https://github.com/user-attachments/assets/2d75a6be-378c-48da-aa35-a522fceb4a5a)
 
 ## Build command
 
