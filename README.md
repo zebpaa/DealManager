@@ -1,14 +1,22 @@
 ## Description
 
-Project need to write with [FSD](https://feature-sliced.design/ru/) architecture, that's why i decided to use this [folder generator](https://github.com/yunglocokid/FSD-Pure-React-Template). Сreator of FSD advise to use this.
+SPA web application for interacting with deals.
 
-I was also told that there is no need to adapt for mobile devices and tablets.
+The application is implemented using Typescript, React, Redux Toolkit, React Router, CSS Modules, SCSS, React Hook Form + yup, Vite
+
+1) Filtering by tabs
+2) Adding a deal via a modal window
+3) FSD architecture
+4) Adaptive design
+5) Storing state in Redux Toolkit
+6) Editing deal data
+7) Working with a table
+8) Form validation
+
 
 [Task description](https://docviewer.yandex.ru/view/1797643866/?page=1&*=Pyjgdha7S7Wsq1NkkuTT%2F%2FfteYN7InVybCI6InlhLW1haWw6Ly8xODgwMjUyODQ0NDI3MTg2MzYvMS4yIiwidGl0bGUiOiLQotC10YHRgtC%2B0LLQvtC1INC30LDQtNCw0L3QuNC1IChmcm9udCkudHh0Iiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIxNzk3NjQzODY2IiwidHMiOjE3MzMyMTE4NDYzNTIsInl1IjoiNDE5MzgxNjUyMTcwOTEzMTg3NiJ9)
 
 [Layout](https://www.figma.com/design/3BvdZRWkYNtNqZjRBmQraS/Test?node-id=6-905&node-type=frame&t=FDirMczvfuQa55sA-0)
-
-Deadline ~ 1 week
 
 ```sh
 git clone https://github.com/zebpaa/test_IQ_Group.git
