@@ -2,6 +2,10 @@
 
 SPA web-application for interacting with deals.
 
+[Task description](https://docviewer.yandex.ru/view/1797643866/?page=1&*=Pyjgdha7S7Wsq1NkkuTT%2F%2FfteYN7InVybCI6InlhLW1haWw6Ly8xODgwMjUyODQ0NDI3MTg2MzYvMS4yIiwidGl0bGUiOiLQotC10YHRgtC%2B0LLQvtC1INC30LDQtNCw0L3QuNC1IChmcm9udCkudHh0Iiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIxNzk3NjQzODY2IiwidHMiOjE3MzMyMTE4NDYzNTIsInl1IjoiNDE5MzgxNjUyMTcwOTEzMTg3NiJ9)
+
+[Layout](https://www.figma.com/design/3BvdZRWkYNtNqZjRBmQraS/Test?node-id=6-905&node-type=frame&t=FDirMczvfuQa55sA-0)
+
 Stack: Typescript, React, Redux Toolkit, React Router, CSS Modules, SCSS, React Hook Form + yup, Vite
 
 1) Filtering by tabs
@@ -13,11 +17,6 @@ Stack: Typescript, React, Redux Toolkit, React Router, CSS Modules, SCSS, React 
 7) Working with a table
 8) Form validation
 
-
-[Task description](https://docviewer.yandex.ru/view/1797643866/?page=1&*=Pyjgdha7S7Wsq1NkkuTT%2F%2FfteYN7InVybCI6InlhLW1haWw6Ly8xODgwMjUyODQ0NDI3MTg2MzYvMS4yIiwidGl0bGUiOiLQotC10YHRgtC%2B0LLQvtC1INC30LDQtNCw0L3QuNC1IChmcm9udCkudHh0Iiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIxNzk3NjQzODY2IiwidHMiOjE3MzMyMTE4NDYzNTIsInl1IjoiNDE5MzgxNjUyMTcwOTEzMTg3NiJ9)
-
-[Layout](https://www.figma.com/design/3BvdZRWkYNtNqZjRBmQraS/Test?node-id=6-905&node-type=frame&t=FDirMczvfuQa55sA-0)
-
 ## Development command
 
 ```sh
@@ -27,8 +26,6 @@ code .
 npm install
 npm run dev
 ```
-
-After opening in IDE
 
 ## Screenshots
 
