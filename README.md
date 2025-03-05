@@ -18,10 +18,14 @@ Stack: Typescript, React, Redux Toolkit, React Router, CSS Modules, SCSS, React 
 
 [Layout](https://www.figma.com/design/3BvdZRWkYNtNqZjRBmQraS/Test?node-id=6-905&node-type=frame&t=FDirMczvfuQa55sA-0)
 
+## Development command
+
 ```sh
-git clone https://github.com/zebpaa/test_IQ_Group.git
-cd test_IQ_Group/
+git clone https://github.com/zebpaa/DealManager.git
+cd DealManager/
 code .
+npm install
+npm run dev
 ```
 
 After opening in IDE
@@ -34,13 +38,6 @@ After opening in IDE
 ![Screenshot_4](https://github.com/user-attachments/assets/131f1a9b-ffef-45b0-9344-f51962b7aab8)
 ![Screenshot_5](https://github.com/user-attachments/assets/c43e07e4-9b37-48ea-a8cb-3cc39f47eb1b)
 ![Screenshot_6](https://github.com/user-attachments/assets/3c6c443a-64d6-4a3a-bf52-1018bab0fa87)
-
-## Development command
-
-```sh
-npm install
-npm run dev
-```
 
 ## Build command
 
