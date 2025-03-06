@@ -6,7 +6,7 @@ SPA web-application for interacting with deals.
 
 [Layout](https://www.figma.com/design/3BvdZRWkYNtNqZjRBmQraS/Test?node-id=6-905&node-type=frame&t=FDirMczvfuQa55sA-0)
 
-Stack: Typescript, React, Redux Toolkit, React Router, CSS Modules, SCSS, React Hook Form + yup, Vite
+Stack: Typescript, React, Redux Toolkit, Redux-Persist, React Router, CSS Modules, SCSS, React Hook Form + yup, Vite
 
 1) Filtering by tabs
 2) Adding a deal via a modal window
